@@ -1,3 +1,4 @@
+//请使用gcc编译运行
 #include <stdio.h>
 int main()
 {
