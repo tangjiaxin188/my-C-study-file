@@ -1,3 +1,4 @@
+//当你在控制台运行程序时可以输入两个参数，他们会相加
 #include <stdio.h>
 #include <stdlib.h>
 
