@@ -1,3 +1,4 @@
+//在控制台输入外部参数即可
 #include <stdio.h>
 #include <stdlib.h>
 
