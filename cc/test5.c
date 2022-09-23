@@ -38,7 +38,7 @@ int main(int argc,char * argv[])
         }
         else
         {
-            printf("改排列逆序数为%d,为偶排列",n);
+            printf("该排列逆序数为%d,为偶排列",n);
         }
     }
 
